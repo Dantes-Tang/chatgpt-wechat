@@ -1,0 +1,9 @@
+Collecting baidu_aip
+  Downloading https://files.pythonhosted.org/packages/fa/4c/798f80be5e11eb8ba88792bf3a72094d499cccfa8f6a67250382bccc4895/baidu_aip-4.16.10-py3-none-any.whl
+Requirement already satisfied: requests in /Users/dantes_tang/Library/Python/3.8/lib/python/site-packages (from baidu_aip) (2.29.0)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /Users/dantes_tang/Library/Python/3.8/lib/python/site-packages (from requests->baidu_aip) (1.26.15)
+Requirement already satisfied: idna<4,>=2.5 in /Users/dantes_tang/Library/Python/3.8/lib/python/site-packages (from requests->baidu_aip) (3.4)
+Requirement already satisfied: charset-normalizer<4,>=2 in /Users/dantes_tang/Library/Python/3.8/lib/python/site-packages (from requests->baidu_aip) (3.1.0)
+Requirement already satisfied: certifi>=2017.4.17 in /Users/dantes_tang/Library/Python/3.8/lib/python/site-packages (from requests->baidu_aip) (2022.12.7)
+Installing collected packages: baidu-aip
+Successfully installed baidu-aip-4.16.10
